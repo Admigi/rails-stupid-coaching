@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+.input-group {
+  padding: 20px;
+}
